@@ -1,0 +1,4 @@
+<MQTTAddress>mosquitto.local</MQTTAddress>
+<MQTTPort>1883</MQTTPort>
+<OSCAddress>localhost</OSCAddress>
+<OSCPort>12345</OSCPort>
